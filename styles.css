@@ -1,9 +1,18 @@
 
 /* Your CSS Code here. */
 
-.questions {
-    /* background-color: #f8fffe; */
-    background-color: red;
+.questions li{
+    background-color: #f8fffe;
+    
+     height: 50px;
+      margin-top: 20px;
+       padding: 15px;
+        max-width: 600px;
+         border-left: 8px solid green
+}
+.questions p{
+    background-color: #f8fffe;
+   
      height: 50px;
       margin-top: 20px;
        padding: 15px;
